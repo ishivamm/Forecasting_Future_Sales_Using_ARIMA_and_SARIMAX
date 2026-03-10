@@ -48,4 +48,5 @@ To run this project, you need the following Python libraries:
 ## Results & Visualizations
 The project concludes by visualizing the predicted sales vs. the actual historical sales. As shown below, the SARIMAX model successfully captures the end-of-year peaks characteristic of champagne sales:
 
-![SARIMAX Sales Forecast](forecast.png)
+![SARIMAX Sales Forecast](<img width="1003" height="659" alt="sales_and_forecaste" src="https://github.com/user-attachments/assets/bc6e2776-4e1a-44aa-a6dc-49d3df182d47" />
+)
